@@ -1,0 +1,1 @@
+savedcmd_/root/drivers/5_drova/edu_dma.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /root/drivers/5_drova/edu_dma.ko /root/drivers/5_drova/edu_dma.o /root/drivers/5_drova/edu_dma.mod.o /root/drivers/5_drova/.module-common.o
